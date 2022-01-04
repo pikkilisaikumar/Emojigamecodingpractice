@@ -1,0 +1,10 @@
+.list-item {
+  background-color: lightblue;
+  background-image: linear-gradient(#fbc7d4, white);
+  padding: 30px;
+  margin: 13px;
+}
+.buttonemoji {
+  background-color: transparent;
+  border-width: 0;
+}

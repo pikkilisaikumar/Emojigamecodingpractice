@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+.card-containerbackground {
+  background-image: linear-gradient(#9796f0, #ffffff33);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.unorderlist {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+}

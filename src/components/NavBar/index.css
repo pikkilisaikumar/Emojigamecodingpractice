@@ -1,0 +1,28 @@
+.navcontainer {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  color: white;
+  font-size: 17px;
+  padding-left: 10px;
+}
+.scoretopscorecontainer {
+  display: flex;
+  align-items: center;
+}
+.imageheadingone {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.paragraph {
+  color: white;
+  padding-left: 15px;
+  font-family: 'Roboto';
+}
